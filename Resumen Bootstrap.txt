@@ -1,0 +1,24 @@
+Resumen Bootstrap
+
+primary: azul
+info: celeste
+success: verde
+danger: rojo
+warning: amarillo
+dark: negro
+white: blanco
+
+bg: color de fondo
+
+text-danger -> texto rojo
+text-center -> centrado del texto de una caja
+
+margin y padding
+	-> my-1: margen top y bottom de 0.25 rem = 0.25 * 16px = 4px
+		2: 0.5rem	
+		3: 1rem
+		4: 1.5rem
+		5: 3rem
+
+		mx-2: margen left y right de 0.5rem = 0.5 * 16px = 8px
+		pt-3: padding top de 1rem = 16px

@@ -1,0 +1,10 @@
+formas de embeber CSS en HTML
+	--> estilo en linea
+	--> estilo en bloque
+	--> vinculo a hojas de estilos externa -> <link>
+
+selectores de CSS: sirven para seleccionar los elementos
+a los cuales queremos aplicar estilos
+	--> de etiqueta: afecta a todas las etiquetas del mismo tipo
+	--> de id: afecta a una unica etiqueta
+	--> de clase: afecta a etiquetas de diferentes tipos con las mismas reglas

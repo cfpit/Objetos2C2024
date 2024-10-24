@@ -1,0 +1,4 @@
+formas de embeber Javascript en HTML
+	--> script en linea
+	--> script en bloque
+	--> vinculo a archivo externo
