@@ -1,1 +1,0 @@
-Este es el contenido que lee fetch 
